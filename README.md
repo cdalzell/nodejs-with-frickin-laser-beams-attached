@@ -16,3 +16,5 @@ Coming soon..
 >Number Two: Absolutely.
 
 >Dr. Evil: Oh well, that's a start. 
+
+![node-mind-blown](https://raw.githubusercontent.com/cdalzell/nodejs-with-frickin-laser-beams-attached/master/img/node-mind-blown.gif)
